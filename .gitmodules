@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DepLogo"]
+	path = DepLogo
+	url = https://github.com/cran/DepLogo
+	shallow = true
+	registered = true
+[submodule "PRROC"]
+	path = PRROC
+	url = https://github.com/cran/PRROC
+	shallow = true
+	registered = true
